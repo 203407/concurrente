@@ -15,10 +15,10 @@ if __name__ == '__main__':
     
     data= ['https://classroom.google.com','https://github.com','https://www.xbox.com/es-MX','https://www.playstation.com/es-mx/',
             'https://twitter.com/','https://www.reddit.com','https://es-la.facebook.com','https://www.youtube.com',
-            'https://www.figma.com/signup','https://trello.com/es/login','https://jsonplaceholder.typicode.com','https://my.freenom.com',
-            'https://www.w3schools.com','https://support.microsoft.com/','https://www.nvidia.com/es-la/','https://www.amd.com/es',
+            'https://www.figma.com/sign','https://trello.com/es/login','https://jsonplaceholder.typicode.com','https://my.freenom.com',
+            'https://www.w3schools.com','https://support.microsoft.com/','https://www.nvidia.com/es-la/','https://www.am.om/es',
             'https://www.amazon.com.mx','https://mx.msi.com','https://www.minecraft.net/es-es','https://store.steampowered.com/?l=spanish',
-            'https://www.epicgames.com/site/es-ES/home','https://playvalorant.com/es-mx/','https://genshin.hoyoverse.com/pc-launcher',
+            'https://www.epicgas.com/site/es-ES/home','https://playvalorant.com/es-mx/','https://genshin.hoyoverse.com/pc-launcher',
             'https://www.ea.com/es-es/games/apex-legends','https://www.leagueoflegends.com/es-mx/'
             
     ]
